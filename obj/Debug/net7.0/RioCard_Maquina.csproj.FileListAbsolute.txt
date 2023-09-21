@@ -1,0 +1,14 @@
+C:\Users\kugao\Desktop\RioCard_Maquina\bin\Debug\net7.0\RioCard_Maquina.exe
+C:\Users\kugao\Desktop\RioCard_Maquina\bin\Debug\net7.0\RioCard_Maquina.deps.json
+C:\Users\kugao\Desktop\RioCard_Maquina\bin\Debug\net7.0\RioCard_Maquina.runtimeconfig.json
+C:\Users\kugao\Desktop\RioCard_Maquina\bin\Debug\net7.0\RioCard_Maquina.dll
+C:\Users\kugao\Desktop\RioCard_Maquina\bin\Debug\net7.0\RioCard_Maquina.pdb
+C:\Users\kugao\Desktop\RioCard_Maquina\obj\Debug\net7.0\RioCard_Maquina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kugao\Desktop\RioCard_Maquina\obj\Debug\net7.0\RioCard_Maquina.AssemblyInfoInputs.cache
+C:\Users\kugao\Desktop\RioCard_Maquina\obj\Debug\net7.0\RioCard_Maquina.AssemblyInfo.cs
+C:\Users\kugao\Desktop\RioCard_Maquina\obj\Debug\net7.0\RioCard_Maquina.csproj.CoreCompileInputs.cache
+C:\Users\kugao\Desktop\RioCard_Maquina\obj\Debug\net7.0\RioCard_Maquina.dll
+C:\Users\kugao\Desktop\RioCard_Maquina\obj\Debug\net7.0\refint\RioCard_Maquina.dll
+C:\Users\kugao\Desktop\RioCard_Maquina\obj\Debug\net7.0\RioCard_Maquina.pdb
+C:\Users\kugao\Desktop\RioCard_Maquina\obj\Debug\net7.0\RioCard_Maquina.genruntimeconfig.cache
+C:\Users\kugao\Desktop\RioCard_Maquina\obj\Debug\net7.0\ref\RioCard_Maquina.dll
